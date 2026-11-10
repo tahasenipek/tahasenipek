@@ -57,11 +57,3 @@
 </div>
 
 ---
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahasenipek&show_icons=true&theme=radical&hide_border=true" alt="Taha's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahasenipek&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
