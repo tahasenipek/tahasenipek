@@ -1,29 +1,67 @@
-<h1> Hi there I'm Taha 👋 </h1>
+<h1 align="center">Hi, I'm Taha 👋</h1>
+<h3 align="center">Full-Stack Developer | Product Builder | 42 Network Member </h3>
 
-<h2 align="center">Technologies</h2>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="70" height="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="70" height="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" width="80" height="80">
-  <img src="https://cdn.cdnlogo.com/logos/n/79/node-js.svg" width="100" height="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="80" height="80">
-  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/postgresql-logo.png" width="100" height="80">
-  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="80" height="80">
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="100" height="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="80" height="80">
-  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" width="100" height="auto">
-  <img src="https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-featured.png" width="100" height="auto">
-  <img src="https://logos-world.net/wp-content/uploads/2023/08/React-Symbol.png" width="100" height="auto">
-  <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" width="100" height="auto">
+  Combining product management discipline (ex-Hepsiburada PM) with deep engineering foundations to build scalable systems. Currently developing <b>Loncera</b>, studying system architecture in the <b>42 School</b> ecosystem, and building autonomous <b>Micro-SaaS</b> projects.
 </p>
 
-<div>
-  <div>🔭 I'm currently working on developing innovative solutions for our new product line</div>
-  <div>🌱 I’m currently learning Deep Learning</div>
-  <div>🤔 I’m looking for help with open source projects</div>
-  <div>💬 Just say Hello</div>
-  <div>📫 How to reach me: tahasenipek@gmail.com</div>
-</div>
+<p align="center">
+  <a href="mailto:tahasenipekk@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-tahasenipek%40gmail.com-blue?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/tahasenipek">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Taha%20Şenipek-blue?style=flat-square&logo=linkedin">
+  </a>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🌱 Currently focusing on **AI Agents**, Systems Programming (**C/C++**), and **Deep Learning**.
+
+---
+
+### 💻 Tech Stack & Tools
+
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahasenipek&show_icons=true&locale=en&layout=compact" alt="tahasenipek" /></p> </div>
+  
+  **Languages & Core Technologies**<br>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <br><br>
+  
+  **Frameworks & Libraries**<br>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <br><br>
+
+  **Databases & ORM**<br>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <br><br>
+
+  **DevOps, Infrastructure & Tools**<br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tahasenipek&show_icons=true&theme=radical&hide_border=true" alt="Taha's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahasenipek&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
